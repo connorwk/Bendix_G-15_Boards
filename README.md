@@ -1,4 +1,4 @@
-# Bendix_G-15_Boards
+# Bendix G-15 Boards
 KiCad re-creations of the schematics and boards for the Bendix G-15.
 
 These boards are meant to be functional drop in replacements for the original boards, whether they are damaged or missing.
